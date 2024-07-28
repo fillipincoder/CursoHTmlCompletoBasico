@@ -1,0 +1,42 @@
+TAGS DE ABERTURA E FECHAMENTO NO HTML
+
+As tags no HTML são representadas pelo sinal
+de menor "<" seguido do nome da tag e pelo sinal de maior ">".
+Exemplo: `<tag>`.
+
+Para declarar que o documento é do tipo HTML,
+podemos usar a tag `<!DOCTYPE html>`.
+
+A tag `<html>` é utilizada como
+a base para todo o conteúdo do site.
+
+A tag `<head>` contém informações sobre
+o documento que não são mostradas aos usuários.
+Podemos incluir dentro dessa tag a tag `<title>`
+para definir o título do site.
+
+A tag `<body>` é onde colocamos todo o conteúdo visível
+aos usuários Como por exemplo textos ,formularios,fotos
+
+ATALHO PARA ESTRUTURA HTML SUGESTÃO
+
+Ao digitar "html : 5", o editor preenche automaticamente toda
+a estrutura básica do documento HTML.
+A funcionalidade "html : 5" preenche automaticamente
+a estrutura básica do documento, economizando tempo e esforço.
+
+html : 5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
