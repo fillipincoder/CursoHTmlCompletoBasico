@@ -1,0 +1,43 @@
+OQUE É HTML 
+DEFINIÇÃO E IMPORTÂNCIA
+
+HTML significa : Hyper Text Markup Language
+(Linguagem de Marcação de Hipertexto),
+essencial para estruturar conteúdos na web,
+incluindo textos, imagens e vídeos.
+
+Os arquivos HTML geralmente têm as extensões "
+.html" ou ".htm", sendo recomendado usar sempre ".html".
+
+FUNCIONAMENTO DAS TAGS
+As tags são elementos fundamentais no HTML,
+representadas por sinais menores (<>) e podem ter uma abertura
+e fechamento. Um exemplo dado é a tag `<title>`,
+que define o título da página no navegador.
+
+Existem atualmente 140 tags HTML disponíveis;
+elas informam ao navegador qual tipo de
+conteúdo deve ser exibido. (2022 Curso)
+-------------------------------------------------------------
+
+EXEMPLOS PRÁTICOS DE TAGS ,IDENTIFICAÇÃO DAS TAGS
+
+Exemplos práticos incluem tags que indicam imagens
+(`<img>`), vídeos (`<video>`) e áudio (`<audio>`),
+facilitando a compreensão do seu uso pelo navegador.
+
+Algumas tags têm nomes intuitivos em português,
+enquanto outras são abreviações em inglês.
+Por exemplo: <ul> representa uma lista não ordenada
+
+
+APLICAÇÃO DAS TAGS NA CRIAÇÃO DE SITES 
+
+As tags ajudam na organização correta do site
+para que o navegador interprete adequadamente
+as intenções do desenvolvedor.
+
+---------------------------------------------
+
+
+
