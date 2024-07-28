@@ -1,0 +1,36 @@
+## CONFIGURAÇÃO INICIAL
+O instrutor inicia criando um projeto no Windows
+dentro da pasta "sites", explicando sua escolha pela localização
+independente do usuário atual.
+
+##NOMEAÇÃO DAS PASTAS 
+É importante nomear pastas sem espaços;
+recomenda-se usar traços ou sublinhados
+(ex.: "meu-primeiro-site" ou "meu_primeiro_site").
+
+## ABERTURA DE PASTAS NO VS CODE
+O usuário inicia o programa e abre uma pasta
+específica através da opção "Open Folder" ou "Abrir Pasta".
+
+Navega até a pasta "aula-html", que foi criada anteriormente,
+para visualizar os arquivos do projeto.
+
+##NAVEGAÇÃO E ATALHOS 
+O painel  "Explorer" mostra a localização atual da pasta.
+É possível ocultar ou mostrar esse painel usando o atalho "CTRL + B".
+
+Para criar um novo arquivo, utiliza-se a opção "New File".
+O padrão para a página inicial é sempre nomear o arquivo como
+"index.html".
+
+
+##CRIAÇÃO DO ARQUIVO HTML
+Ao criar um arquivo chamado "index.html",
+o VS Code reconhece automaticamente o tipo de arquivo,
+facilitando a inserção das tags HTML.
+
+Reitera-se a importância de seguir o padrão de nomenclatura
+para arquivos iniciais em projetos web.
+
+
+
