@@ -1,0 +1,20 @@
+INTRODUÇÃO AS META TAGS
+META TAGS E SUAS FINALIDADES
+
+As meta tags são tags do tipo "meta"
+localizadas dentro da seção HEAD do código HTML a parte
+qual só o navegador tem acesso as informações e nao o usuario.
+
+Elas servem para fornecer informações aos mecanismos de busca,
+como palavras-chave, autor e codificação de caracteres.
+Também podem ser usadas para definir a visualização
+em diferentes dispositivos.
+
+ATRIBUTO LANG NA TAG HTML
+O atributo Lang define o idioma padrão do site
+Por padrão ele vem configurado em inglês
+Para trocarmos o idioma para portugues
+devemos definir o atributo Lang como "pt-br"
+Assim Informamos ao Navegador que o site está
+Portugues 
+
