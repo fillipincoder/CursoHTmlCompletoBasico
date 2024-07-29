@@ -18,3 +18,13 @@ devemos definir o atributo Lang como "pt-br"
 Assim Informamos ao Navegador que o site está
 Portugues 
 
+Agora veremos como utilizar a meta tag Lang para
+definir o idioma do site.
+
+Incluindo o atribuito "Lang =" seguido de pt-br ,informamos
+ao navegador que o site está portugues 
+isso evita que seja exibida uma mensagem de tradução
+automática no navegador 
+
+
+
