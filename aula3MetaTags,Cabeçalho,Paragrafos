@@ -17,14 +17,60 @@ Para trocarmos o idioma para portugues
 devemos definir o atributo Lang como "pt-br"
 Assim Informamos ao Navegador que o site está
 Portugues 
-
 Agora veremos como utilizar a meta tag Lang para
 definir o idioma do site.
-
 Incluindo o atribuito "Lang =" seguido de pt-br ,informamos
 ao navegador que o site está portugues 
 isso evita que seja exibida uma mensagem de tradução
 automática no navegador 
+
+META TAG Charset
+A meta tag Charset é utilizada para definir
+a codificação de caracteres do site.
+Ao incluir a meta tag Charset com o valor "UTF-8",
+garantimos que os caracteres sejam exibidos corretamente.
+Isso evita problemas de acentuação em diferentes navegadores.
+
+META TAG X-UA-Compatible 
+A meta tag X-UA-Compatible é utilizada para
+garantir a compatibilidade com o Internet Explorer.
+Ao incluir essa meta tag e definir o conteúdo como
+"IE =edge", garantimos que o site seja exibido 
+corretamente nas versões mais recentes do navegador
+da Microsoft 
+Evita problemas de compatibilidade e garante uma 
+experiência consistente para os Usuarios 
+
+META TAG Viewport 
+A Meta tag Viewport é utilizada para adaptar 
+o site ao dispositivo do usuário 
+Ao incluir Meta tag Viewport com o conteúdo
+
+"width=device-width, initial-scale=1.0",
+permitimos que os elementos do site se adaptem 
+à tela do dispositivo 
+
+Isso garante uma melhor experiência de visualização
+em diferentes dispositivos como celulares e computadores
+
+IMPORTÂNCIA DA META TAG PARA O FORMATO DO SITE EM
+DISPOSITIVOS MÓVEIS 
+Nesta seção, é explicada a importância da meta
+tag para garantir que o site seja exibido corretamente
+em dispositivos móveis.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
