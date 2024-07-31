@@ -1,0 +1,16 @@
+Introdução às Tags HTML
+Visão geral da seção:Nesta seção, serão apresentadas algumas tags
+importantes relacionadas aos cabeçalhos e parágrafos em HTML.
+
+TAGS DE CABEÇALHO (BODY)
+
+As tags de cabeçalho são usadas para criar
+títulos em um documento HTML.
+Existem seis níveis de cabeçalho, 
+representados pelas tags h1 até h6.
+Os títulos devem ser usados para indicar
+a importância do texto, não apenas para alterar o tamanho
+ou estilo da fonte.
+
+Os títulos devem ser usados em ordem de relevância,
+do h1 (mais importante) ao h6 (menos importante).
