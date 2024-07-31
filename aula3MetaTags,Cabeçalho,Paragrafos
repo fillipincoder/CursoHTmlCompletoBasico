@@ -59,6 +59,85 @@ Nesta seção, é explicada a importância da meta
 tag para garantir que o site seja exibido corretamente
 em dispositivos móveis.
 
+META TAG PARA FORMATAÇÃO CORRETA
+EM DISPOSITIVOS MOVEIS
+- A meta tag é importante para garantir que o site
+seja exibido corretamente em dispositivos móveis
+- Sem essa meta tag o site pode parecer estar sendo
+exibido na versão de computador no celular 
+- É recomendado sempre incluir a meta tag com o 
+idioma correto como "pt-br"
+
+
+Nesta seção, são apresentadas outras meta tags
+importantes além das padrões.
+Meta tag "description"
+
+A meta tag "description" é uma descrição do site.
+Ao enviar o link do seu site para outra pessoa, 
+essa descrição aparece abaixo do título.
+É recomendado fazer uma descrição concisa
+e relevante sobre o objetivo do site.
+
+
+Meta tag "keywords"
+
+A meta tag "keywords" permite adicionar
+palavras-chave relacionadas ao conteúdo do seu site.
+Essas palavras-chave ajudam os mecanismos de pesquisa
+a entenderem sobre o que é seu site.
+Quanto mais palavras-chave relevantes você adicionar,
+melhor será a classificação do seu site nos 
+mecanismos de busca.
+
+Importância atual das meta tags
+Visão geral da seção: Nesta seção, é discutida
+a importância atual das meta tags.(Meta dados)
+
+
+Atualmente, as meta tags não têm tanta
+relevância como no passado.
+Os mecanismos de busca, como o Google, utilizam algoritmos
+inteligentes que conseguem entender o conteúdo do site 
+sem depender apenas das meta tags.
+No entanto, ainda é importante utilizar corretamente
+as meta tags "description" e "keywords" para auxiliar
+na classificação do site nos mecanismos de busca.
+
+CONSIDERAÇÕES FINAIS SOBRE AS META TAGS
+As meta tags são lidas apenas pelos navegadores
+e não são visíveis para os usuários.
+É importante compreender que a inclusão adequada das meta tags
+pode ajudar na classificação do site nos mecanismos de busca.
+As principais meta tags abordadas
+foram "description" e "keywords".
+
+META TAGS E AUTORIA 
+META TAGS 
+
+As meta tags são informações adicionadas
+ao código HTML de um site para fornecer
+informações sobre o conteúdo.
+
+Existem três meta tags essenciais que devem ser incluídas:
+"description" (descrição do site), "keywords" (palavras-chave)
+e "author" (autor).
+
+A meta tag "description" fornece uma breve descrição do site.
+A meta tag "keywords" é usada para inserir palavras-chave
+relevantes ao conteúdo do site.
+A meta tag "author" identifica o autor do site.
+
+
+AUTORIA 
+
+Incluir a informação de autoria no código HTML é importante,
+pois permite que os mecanismos de busca reconheçam o autor do site.
+Ter a informação de autoria pode aumentar a pontuação nos mecanismos
+de busca, pois eles reconhecem você como autor confiável.
+A autoria também funciona como uma assinatura para identificar
+quem criou a página.
+
 
 
 
