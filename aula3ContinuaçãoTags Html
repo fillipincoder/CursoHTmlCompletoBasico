@@ -14,3 +14,31 @@ ou estilo da fonte.
 
 Os títulos devem ser usados em ordem de relevância,
 do h1 (mais importante) ao h6 (menos importante).
+
+TAGS DE PARÁGRAFO 
+
+A Tag <p>Paragrafo</p> é usada para criar parágrafos
+em um documento HTML 
+O conteúdo dentro da tag <p> será exibido como um 
+parágrafo no site 
+
+DEMONSTRAÇÃO DAS TAGS DE CABEÇALHO E SUA HIERARQUIA
+
+As tags de cabeçalho são representadas pelas letras "h"
+sequidas por um número (h1 até h6).
+Os títulos são organizados em uma hierarquia
+com o h1 sendo o mais importante e o h6 sendo o 
+menos importante. 
+É importante usar os titulos corretamente para indicar
+a estrutura e relevância do conteúdo .
+
+IMPORTÂNCIA DOS TÍTULO EM HTML 
+O palestrante explica a importância dos títulos em HTML
+e como eles devem ser utilizados corretamente.
+
+Os títulos em HTML não devem ser usados apenas para alterar
+o tamanho ou estilo da fonte.
+
+
+
+
