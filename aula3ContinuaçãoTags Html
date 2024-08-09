@@ -38,6 +38,14 @@ e como eles devem ser utilizados corretamente.
 
 Os títulos em HTML não devem ser usados apenas para alterar
 o tamanho ou estilo da fonte.
+Eles devem ser utilizados para indicar a importância e 
+estrutura do conteúdo 
+Os títulos seguem uma ordem de relevância ,do h1 ao h6.
+Os mecanismos de busca utilizam os títulos para entender
+a estrutura e a importância do conteúdo 
+
+
+
 
 
 
