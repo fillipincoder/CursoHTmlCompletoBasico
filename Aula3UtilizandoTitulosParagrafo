@@ -1,0 +1,39 @@
+Utilizando Títulos e Parágragos
+
+Os títulos devem ser usados para indicar
+a importância do texto, não para alterar
+o estilo da fonte.
+A tag h1 deve ser usada apenas uma vez
+por página, representando o título principal.
+A tag p é utilizada para criar
+parágrafos no conteúdo.
+É importante seguir a hierarquia correta
+dos títulos e utilizar as tags adequadamente.
+
+
+Nesta seção, o palestrante mostra como preencher
+um site com texto aleatório usando a tag <p>
+Preenchendo com Texto Aleatório
+
+Para preencher um site com texto aleatório,
+pode-se usar a tag <p> seguida pelo texto "Lorem".
+Ao pressionar ENTER após escrever "Lorem", será gerado
+um parágrafo com o texto "Lorem ipsum dolor".
+Essa técnica é útil para ter um conteúdo
+fictício enquanto desenvolve o site.
+
+Hierarquia de Conteúdo em HTML
+A hierarquia de conteúdo em HTML é importante para que
+os mecanismos de busca entendam a estrutura do site.
+É recomendado utilizar apenas uma tag h1 por página,
+representando o título principal.
+Os demais títulos devem ser utilizados em ordem
+de relevância, do h2 ao h6.
+Utilizar mais de uma tag h1 pode confundir
+os mecanismos de busca.
+
+
+
+
+
+
