@@ -5,7 +5,8 @@ a importância do texto, não para alterar
 o estilo da fonte.
 A tag h1 deve ser usada apenas uma vez
 por página, representando o título principal.
-A tag p é utilizada para criar
+
+A tag <p> é utilizada para criar
 parágrafos no conteúdo.
 É importante seguir a hierarquia correta
 dos títulos e utilizar as tags adequadamente.
@@ -31,6 +32,45 @@ Os demais títulos devem ser utilizados em ordem
 de relevância, do h2 ao h6.
 Utilizar mais de uma tag h1 pode confundir
 os mecanismos de busca.
+
+Tags de Títulos e Parágrafos
+Nesta seção, o instrutor discute as tags de títulos (H1 a H6)
+e a tag de parágrafo (P). Ele explica como usar essas tags corretamente
+e destaca que os títulos devem ser usados apenas uma vez na página.
+
+Tags de Títulos
+
+A tag H2 é bastante utilizada, enquanto a tag H3 é usada ocasionalmente.
+As tags H4 até H6 são menos comuns.
+Os espaços entre as tags não afetam o resultado final.
+Por exemplo, mesmo se houver vários espaços entre as tags,
+eles serão ignorados pelo navegador.
+É possível criar parágrafos separados usando as tags P.
+Basta abrir uma nova tag P para iniciar um novo parágrafo e fechá-la no local
+desejado.
+
+Tag de Parágrafo
+
+Ao colocar conteúdo dentro das tags P, o navegador
+irá formatar automaticamente esse conteúdo como um parágrafo.
+
+É possível adicionar texto aleatório usando "p>lorem" seguido de ENTER
+para gerar um texto fictício.
+
+Para criar vários parágrafos consecutivos, pode-se usar "p*3"
+para multiplicar a tag P três vezes.
+
+Conclusão
+
+- Nesta aula, aprendemos sobre as meta tags,
+as tags de títulos (H1 a H6) e a tag de parágrafo (P).
+- Na próxima aula, será abordada uma formatação mais detalhada do texto.
+
+
+
+
+
+
 
 
 
