@@ -1,0 +1,42 @@
+Introdução às Tags de Formatação em HTML
+Importância das Tags de Formatação
+
+As Tags de formatação são essenciais para a criação de conteúdo em HTML,
+permitindo que o texto seja apresentado de maneira clara e organizada.
+
+A Tag <b> é frequentemente utilizada para deixar
+palavras em negrito, mas não possui um significado
+semântico forte.
+
+Diferença entre As Tags <b> e <Strong>
+A Tag <strong> também deixa o texto em negrito,
+mas tem um significado semântico que indica ênfase no conteúdo.
+
+Usar A Tag <strong> ajuda navegadores a entenderem
+a importância do texto, enquanto A Tag `<b>` apenas altera
+a aparência visual.
+
+Uso da Tag <hr>
+A tag <hr> é usada para criar uma linha horizontal que separa
+seções do conteúdo, melhorando a organização visual da página.
+
+Quebra de Linha com a Tag <br>
+A Tag <br>, que significa "break",
+é utilizada para quebrar(Pular) linhas.
+É importante notar que ela não cria parágrafos como a Tag <p>.
+
+O uso excessivo da Tag <br> pode levar à desorganização do layout;
+recomenda-se usar CSS para espaçamentos adequados.
+
+Outras Tags Comuns
+A tag <i> é usada para itálico ,enquanto a Tag <u> serve 
+para sublinhar textos.
+
+Formatação de Texto e HTML
+Introdução às Tags de Formatação
+
+A utilização de textos menores pode ser útil para situações
+que exigem rapidez na apresentação.
+
+A Tag <del> é usada para indicar texto excluído,
+criando um efeito visual de riscado
