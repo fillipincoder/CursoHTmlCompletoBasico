@@ -40,3 +40,30 @@ que exigem rapidez na apresentação.
 
 A Tag <del> é usada para indicar texto excluído,
 criando um efeito visual de riscado
+
+Efeitos Visuais com Tags
+A tag <strike>, embora similar à <del>, está em desuso e
+não é mais reconhecida por navegadores modernos.
+
+Para representar números exponenciais, utiliza-se a tag
+<sup> para o expoente, como em 2 elevado a 10.
+
+Uso das Tags Superiores e Inferiores
+A tag <sub> serve para criar texto sublinhado,
+permitindo formatações específicas em números ou palavras.
+
+Exemplos práticos incluem a combinação de tags para destacar
+informações, como "presente" riscado.
+
+Recapitulação das Principais Tags
+<b> : negrito
+<strong>: ênfase forte
+<i> : itálico
+<hr>: linha horizontal divisória
+<br>: quebra de linha
+<small> : texto pequeno
+<mark>: destaque em texto
+
+
+
+
